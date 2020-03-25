@@ -10,4 +10,4 @@
 `IP: play.ytbmc.tk`
 
 在複製此插件之前請先提及我們YBT團隊!
-Mention Our Group Before You Copy This Plugin.
+Before You Copy This Plugin, Please Mention us.
